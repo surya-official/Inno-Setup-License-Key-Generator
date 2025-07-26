@@ -71,7 +71,7 @@ This will generate:
 | `-upper`            | Include uppercase letters                           | `-upper`                        |
 | `-lower`            | Include lowercase letters                           | `-lower`                        |
 | `-digits`           | Include digits                                      | `-digits`                       |
-| `-software`         | Adds uniqueness to keys by binding them to your software name          | `-software "MyApp"`             |
+| `-software`         | Adds uniqueness to keys by using software name      | `-software "MyApp"`             |
 
 To see all available options:
 `Inno_Setup_License_Key_Generator -h`
